@@ -1,0 +1,4 @@
+# EXERCÍCIO 14 - ESTRUTURAS DE REPETICAO
+# Faça um programa que peça 10 números inteiros, calcule e
+# mostre a quantidade de números pares e a quantidade de
+# números impares.
